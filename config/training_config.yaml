@@ -1,0 +1,4 @@
+learning_rate: 3e-5
+batch_size: 4
+model_name: meta-llama/Llama-2-7b-chat-hf
+vision_encoder: openai/clip-vit-base-patch32
