@@ -22,7 +22,7 @@ pip install -r requirements.txt
 python app/gradio_demo.py
 ```
 
-## 🚀 Training
+## 🚀 Training setup
 ```bash
 python scripts/train.py
 ```
