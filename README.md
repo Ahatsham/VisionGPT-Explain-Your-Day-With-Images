@@ -5,8 +5,8 @@
 **VisionGPT** is a multimodal project where screenshots, activity graphs, or mobility maps are fed into a Vision-Language model to generate natural language summaries describing a user's day.
 
 ## ✨ Features
-- Fine-tuned LLaVA-style architecture
-- Simulated mobile data as input
+- Fine-tuned LLaVA-style architecture.
+- Simulated mobile data as input.
 - Textual summaries describing behavior
 - Gradio demo interface for real-time use
 
