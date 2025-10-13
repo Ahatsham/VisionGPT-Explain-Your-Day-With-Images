@@ -32,6 +32,7 @@ Structure your dataset like this:
 dataset/
   raw_images/
     user1_day1.png
+    user1_day2.png
   annotations.json
 ```
 
