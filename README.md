@@ -8,7 +8,6 @@
 - Fine-tuned LLaVA-style architecture.
 - Simulated mobile data as input.
 - Textual summaries describing behavior
-- Gradio demo interface for real-time use
 
 ## 🔧 Setup
 ```bash
