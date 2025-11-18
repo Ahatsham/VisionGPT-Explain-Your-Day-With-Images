@@ -1,4 +1,4 @@
-# VisionGPT: Visual Diary Generator
+## VisionGPT: Visual Diary Generator
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/ahatsham/VisionGPT?style=social)
 
